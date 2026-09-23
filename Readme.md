@@ -1,4 +1,4 @@
-# Prompt 4 Model the Maintenance Domain in OpenAPI
+# Model the Maintenance Domain in OpenAPI
 
 This step models the **data contract** for the Equipment Maintenance Hub before any
 route or implementation code is written. The goal is to describe the domain
